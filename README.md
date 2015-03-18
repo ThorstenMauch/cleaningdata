@@ -8,7 +8,7 @@ Leave the folder structure intact.
 
 
 
-## Data Rorcessing
+## Data Processing
 Call the function mainanalysis() from the script  run_analysis.R
 needed libraries *reshape2, dplyr*
 
