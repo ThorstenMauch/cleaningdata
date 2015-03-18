@@ -19,4 +19,21 @@ A description of all variables is found in *codebook.md*
 
 
 
+# Waht does the script makes ?
+
+##Merging data
+Subject ids and activity where merged the training and the test date. Activity was converted to factors
+Test and training data merged to obtain a single data Frame. 
+
+###Variables relabeled
+Variables was given more human friendly names
+
+###Extract mean and standard deviation variables
+The variables with estimated mean and standard deviation was extracted
+
+###Aggregate Data
+The mean of means and standard deviations variables was calculated, grouped by SubjectID and activity 
+
+
+
 
